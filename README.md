@@ -1,0 +1,2 @@
+# HR-automation
+A model was mainly developed by IBM services, including IBM Cloud and Watson Discovery. We collected job information from LinkedIn, the data was uploaded into the Discovery in order to extract keywords, along with scores and sentiments associated. The Discovery service, an AI-powered platform regarding intelligent search and text mining, was applied, in this circumstance, for text analysis. 
